@@ -30,7 +30,3 @@
 
 ## 量子鳕鱼三明治（食用后传送至峡湾维度）
 
-
-## 自动化捕鱼箱（放入小麦种子，置于宽阔水域，自动捕鱼）
-
-![img](https://github.com/zhehedream/MaricultureGuide/blob/master/chest.jpg?raw=true)
