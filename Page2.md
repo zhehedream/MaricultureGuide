@@ -16,7 +16,7 @@
 
 ![img](https://github.com/zhehedream/MaricultureGuide/blob/master/fish.jpg?raw=true)
 
-雄性请将钻石块替换为铁块（热带鱼桶为铁锭）
+雄性请将钻石块替换为铁块
 
 鲑鱼桶：朴素种
 
