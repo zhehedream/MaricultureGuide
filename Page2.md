@@ -4,7 +4,7 @@
 
 ![img](https://github.com/zhehedream/MaricultureGuide/blob/master/recipe1.jpg?raw=true)
 
-## 金召唤竿（可使用约10次）
+## 金召唤竿（可使用约15次）
 
 ![img](https://github.com/zhehedream/MaricultureGuide/blob/master/recipe2.jpg?raw=true)
 
